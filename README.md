@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91011302/225108873-ad187cd6-6790-4a17-b5be-83b4cab1c914.png" width="569" height="228">
 </p>
+<p align="center">
+  <em>Media Player Window</em>
+</p>
 
 The goal is to develop a MP3 media player using JavaFX that offers a user-friendly and visually appealing interface for playing MP3 audio files. 
 

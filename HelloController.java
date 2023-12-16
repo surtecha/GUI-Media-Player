@@ -21,7 +21,7 @@ import java.io.File;
 import java.util.Timer;
 import java.util.TimerTask;
 
-public class HelloController implements Initializable {
+public class Controller implements Initializable {
 
     @FXML
         private Pane pane;
